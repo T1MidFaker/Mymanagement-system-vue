@@ -38,11 +38,11 @@
 
 ### 部分截图
 
-![image-20220904010812857](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220904010812857.png)
+![<u>image-20220904010812857</u>](https://raw.githubusercontent.com/T1MidFaker/picBed/main/202209041709394.png)
 
 
 
-![image-20220904010904534](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220904010904534.png)
+![<u>image-20220904010904534</u>](https://raw.githubusercontent.com/T1MidFaker/picBed/main/202209041710930.png)
 
 ## Project setup
 
