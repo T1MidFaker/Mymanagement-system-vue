@@ -38,11 +38,7 @@
 
 ### 部分截图
 
-![image-20220904010812857]https://github.com/T1MidFaker/Mymanagement-system-vue/blob/main/demo-pics/image-20220904010812857.png)
 
-
-
-![image-20220904010904534](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220904010904534.png)
 
 ## Project setup
 
