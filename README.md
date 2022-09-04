@@ -38,12 +38,17 @@
 
 ### 部分截图
 
+<<<<<<< HEAD
 ![<u>image-20220904010812857</u>](https://raw.githubusercontent.com/T1MidFaker/picBed/main/202209041709394.png)
 
 
 
 ![<u>image-20220904010904534</u>](https://raw.githubusercontent.com/T1MidFaker/picBed/main/202209041710930.png)
 
+=======
+
+
+>>>>>>> 015232e8537024e8eeb8a51c289b7aad6c4484c0
 ## Project setup
 
 ```
