@@ -38,7 +38,7 @@
 
 ### 部分截图
 
-![image-20220904010812857](demo-pics\image-20220904010812857.png)
+![image-20220904010812857](Mymanagement-system-vue/demo-pics/image-20220904010812857.png)
 
 
 
